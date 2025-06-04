@@ -3,4 +3,7 @@
     <string name="Home">Home</string>
     <string name="Card">Card</string>
     <string name="Account">Account</string>
+    <string name="Menu">Menu</string>
+    <string name="Search_Product">Search Product</string>
+    <string name="All_Product">All Products</string>
 </resources>
